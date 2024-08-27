@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @FanisGl otherwise known as Fanis Glarentzos
-- 👀 I’m interested in BI & Data Analytics
-- 🌱 I’m currently learning to deploy python models
+- 👋 Hi, I’m @FanisGl otherwise known as Fanis
+- 👀 I’m interested in BI, Data Analytics and Data Science
+- 🌱 I’m currently learning how to deploy python models and play with data structures using APIs
 - 😄 Pronouns: He/him
 
 <!---
